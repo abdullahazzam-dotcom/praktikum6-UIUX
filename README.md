@@ -1,1 +1,1 @@
-# praktikum6-UIUX
+# praktikum-javascript-UIUX
